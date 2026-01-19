@@ -1,0 +1,20 @@
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-openai
+streamlit
+fastapi
+dotenv
+uvicorn
+uvicorn[starndard]
+pydantic
+typing
+langgraph
+langgraph-supervisor
+sentence-transformers
+transformers
+faiss-cpu
+torch
+
+# uvicorn main:app --reload --host 0.0.0.0 --port 8000
